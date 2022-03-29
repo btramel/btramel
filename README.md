@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btramel, a twenty-something wordsmith turned developer
-- 👀 I’m interested in accessibility standards, the depths of Javascript, beautiful UI design
-- 🌱 I’m currently learning Javascript API integrations, Async/Await
+- 👀 I’m interested in accessible web apps, the depths of Javascript, and beautiful UI design
+- 🌱 I’m currently toying with JS API integrations using Async/Await
 - 📫 How to reach me: bradtramel @ gmail dot com
 
 <!---
