@@ -6,7 +6,7 @@
 
 - 💭 I kept searching. In July 2021, after a few months of learning and re-learning Flexbox and Grid, I decided to dedicate myself to web development. The decision was an easy one. Web development gave me reason to learn something new every day. It scratched the creative itch I hadn't scratched since college. And it challenged me to think practically about solutions to real-world problems.
 
-- 💻 Since then I have re-learned Flexbox and Grid (again), plumbed the depths of Javascript, scratched the surface of React, and toyed with a few CSS frameworks while following The Odin Project's open-source Full Stack Javascript curriculum. 
+- 💻 Since then I have re-learned Flexbox and Grid, plumbed the depths of Javascript, scratched the surface of React, and toyed with a few CSS frameworks while following The Odin Project's open-source Full Stack Javascript curriculum. 
 
 - 📱 I built run-of-the-mill apps like to-do lists, games, and weather UIs, but challenged myself to extend them -- learning about and implementing local storage, asynchronous code, responsive design, and more. I finished more daunting projects, like a React and Material UI web app that recommends attractions using Google Maps. And I'm ready for more.
 
