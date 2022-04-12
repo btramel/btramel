@@ -1,4 +1,4 @@
-👋 Hi, I’m @btramel, a twenty-something wordsmith turned frontend developer. My path to web development was long and sinuous, the unexpected but natural endpoint to a myriad of intervening full-time and side gigs. 
+👋 Hi, I’m Brad Tramel, a twenty-something wordsmith turned frontend developer. My path to web development was long and sinuous, the unexpected but natural endpoint to a myriad of intervening full-time and side gigs. 
 
 - 📝 Out of college I began copywriting for a costumes company, writing about the card game Hearthstone for an Amazon-owned company called Curse, and managing a portfolio of projects for a Minneapolis-based contracting company. I stayed busy.
 
