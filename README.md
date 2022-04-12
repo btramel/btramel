@@ -8,9 +8,9 @@
 
 - 💻 Since then I have re-learned Flexbox and Grid, plumbed the depths of Javascript, scratched the surface of React, and toyed with a few CSS frameworks while following The Odin Project's open-source Full Stack Javascript curriculum. 
 
-- 📱 I built run-of-the-mill apps like to-do lists, games, and weather UIs, but challenged myself to extend them -- learning about and implementing local storage, asynchronous code, responsive design, and more. I finished more daunting projects, like a React and Material UI web app that recommends attractions using Google Maps. And I'm ready for more.
+- 📱 I built run-of-the-mill apps like to-do lists, games, and weather UIs, but challenged myself to extend them -- learning about and implementing local storage, asynchronous code, responsive design, and more. I finished more daunting projects, like a React and Material UI web app that recommends attractions using Google Maps API. And I'm ready for more.
 
-- 👀 I’m interested in making useful and accessible web apps, in becoming proficient with Javascript, and always striving for the next beautiful user interface
+- 👀 Going forward, I’m interested in making beautiful, useful, and accessible web apps for brands, nonprofits, and creators
 
 - 🌱 I’m currently toying with API integrations in React, learning the Material UI CSS framework, and honing my responsive design skills. Check out my projects (and their READMEs for more)
 
