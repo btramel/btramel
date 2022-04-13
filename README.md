@@ -2,7 +2,7 @@
 
 - 📝 Out of college I began copywriting for a costumes company, writing about the card game Hearthstone for an Amazon-owned company called Curse, and managing a portfolio of projects for a Minneapolis-based contracting company. I stayed busy.
 
-- 📚 But I wanted a new challenge, not satisfied with how little I was learning day-to-day. I took the LSAT in 2019 and accepted a scholarship to the St. Thomas School of Law in early 2020, only to defer and ultimately decline it amidst pandemic uncertainty.
+- 📚 But I wanted a new challenge, eager to enter a field with more opportunity for growth. I took the LSAT in 2019 and accepted a scholarship to the St. Thomas School of Law in early 2020, only to defer and ultimately decline it amidst pandemic uncertainty.
 
 - 💭 I kept searching. In July 2021, after a few months of learning and re-learning Flexbox and Grid, I decided to dedicate myself to web development. The decision was an easy one. Web development gave me reason to learn something new every day. It scratched the creative itch I hadn't scratched since college. And it challenged me to think practically about solutions to real-world problems.
 
@@ -10,9 +10,9 @@
 
 - 📱 I built run-of-the-mill apps like to-do lists, games, and weather UIs, but challenged myself to extend them -- learning about and implementing local storage, asynchronous code, responsive design, and more. I finished more daunting projects, like a React and Material UI web app that recommends attractions using Google Maps API. And I'm ready for more.
 
-- 👀 Going forward, I’m interested in making beautiful, useful, and accessible web apps for brands, nonprofits, and creators
+- 👀 Going forward, I’m interested in making beautiful, useful, and accessible web apps for brands, nonprofits, and creators.
 
-- 🌱 I’m currently toying with API integrations in React, learning the Material UI CSS framework, and honing my responsive design skills. Check out my projects (and their READMEs for more)
+- 🌱 I’m currently toying with API integrations in React, learning the Material UI CSS framework, and honing my responsive design skills. Check out my projects (and their READMEs for more).
 
 - 📫 Drop me a line: <a href="http://mailto:bradtramel@gmail.com">bradtramel @ gmail dot com</a>
 
