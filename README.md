@@ -1,6 +1,6 @@
-👋 Hi, I’m Brad Tramel, a twenty-something wordsmith turned frontend developer. My path to web development was long and sinuous, the unexpected but natural endpoint to a myriad of intervening full-time and side gigs. 
+👋 Hi, I’m Brad Tramel, a twenty-something wordsmith turned frontend developer. My path to web development was long and sinuous, the unexpected but natural endpoint to myriad excursions and side gigs. 
 
-- 📝 Out of college I began copywriting for a costumes company, writing about the card game Hearthstone for an Amazon-owned company called Curse, and managing a portfolio of projects for a Minneapolis-based contracting company. I stayed busy.
+- 📝 Out of college I stayed busy copywriting for a massive ecommerce company, writing about the card game Hearthstone for Curse, an Amazon affiliate, and managing a portfolio of projects for a Minneapolis contractor.
 
 - 📚 But I wanted a new challenge, eager to enter a field with more opportunity for growth. I took the LSAT in 2019 and accepted a scholarship to the St. Thomas School of Law in early 2020, only to defer and ultimately decline it amidst pandemic uncertainty.
 
