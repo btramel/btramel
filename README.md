@@ -8,7 +8,7 @@
 
 - 👀 Going forward, I’m interested in making beautiful, useful, and accessible websites for brands, nonprofits, and creators. To that end I'm striving to become part of a team that's doing interesting work.
 
-- 🌱 In the meantime, if you need me, I'll be off building something -- I'm currently knee-deep in PHP and Python. (Good odds I could be playing chess, cooking tacos, or managing a fantasy sports team, too.)  
+- 🌱 In the meantime, if you need me, I'll be off building something -- I'm currently knee-deep in Svelte and NextJS. (Good odds I could be playing chess, cooking tacos, or managing a fantasy sports team, too.)  
 
 - 📫 Drop me a line: <a href="http://mailto:bradtramel@gmail.com">bradtramel @ gmail dot com</a>
 
