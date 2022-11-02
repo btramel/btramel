@@ -1,4 +1,4 @@
-👋 Hi, I’m Brad Tramel, a twenty-something wordsmith turned frontend developer. Before web development, my professional life had been an amalgam of side gigs. I wrote about Halloween costumes, waxed poetic about Hearthstone — even detoured to law school. No, seriously!
+👋 Hi, I’m Brad Tramel, a twenty-something wordsmith turned frontend developer. Before web development, my professional life had been an amalgam of side gigs. I wrote about Halloween costumes, waxed poetic about card games — even detoured to law school. No, seriously!
 
 - 💭 When I learned Javascript, I knew I had found my professional spark. Coding challenged me to solve real-world problems, scratched my creative itch, and empowered me to learn constantly.
 
