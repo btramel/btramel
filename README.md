@@ -2,10 +2,6 @@
 
 - 💭 When I learned Javascript, I knew I had found my professional spark. Coding challenged me to solve real-world problems, scratched my creative itch, and empowered me to learn constantly.
 
-- 💻 Since then I have re-learned Flexbox and Grid, plumbed the depths of Javascript, scratched the surface of React, and toyed with a few CSS frameworks while following The Odin Project's open-source Full Stack Javascript curriculum. 
-
-- 📱 I built run-of-the-mill apps like to-do lists, games, and weather UIs, but challenged myself to extend them -- learning about and implementing local storage, asynchronous code, responsive design, and more. I finished more daunting projects, like a React and Material UI web app that recommends attractions using Google Maps API.
-
 - 🐺 Since September 2022 I have been working as a web developer for the Minnesota Timberwolves and Lynx. I help manage a sprawling development environment spanning multiple Wordpress and React sites. Meanwhile, I built and helped design <a href="https://www.timberwolves.com/canvas">a website that unveiled</a> the 2022 Timberwolves City Edition Uniform.
 
 - 🌱 In the meantime, if you need me, I'll be off building something. (Good odds I could be playing chess, cooking tacos, or managing a fantasy sports team, too.)  
