@@ -2,7 +2,7 @@
 
 - 💭 When I learned Javascript, I knew I had found my professional spark. Coding challenged me to solve real-world problems, scratched my creative itch, and empowered me to learn constantly.
 
-- 🐺 Since September 2022 I have been working as a web developer for the Minnesota Timberwolves and Lynx. I help manage a sprawling development environment spanning multiple Wordpress and React sites. Meanwhile, I built and helped design <a href="https://www.timberwolves.com/canvas">a website that unveiled</a> the 2022 Timberwolves City Edition Uniform.
+- 🐺 Since September 2022 I have been working as a web developer for the Minnesota Timberwolves and Lynx. I help manage a sprawling development environment spanning multiple Wordpress and React sites. Meanwhile, I built and helped design <a href="https://www.timberwolves.com/canvas">a website that unveiled</a> the 2022 Timberwolves City Edition Uniform, migrated their web pages from Gatsby to NextJS, and developed web pages for many other digital marketing efforts.
 
 - 🌱 In the meantime, if you need me, I'll be off building something. (Good odds I could be playing chess, cooking tacos, or managing a fantasy sports team, too.)  
 
