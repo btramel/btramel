@@ -9,10 +9,10 @@ I thrive at turning designs into engaging digital experiences using React, NextJ
 * 🌍  I'm based in Minneapolis
 * 🖥️  See my portfolio at [bradtramel.com](http://bradtramel.com)
 * ✉️  You can contact me at [bradtramel@gmail.com](mailto:bradtramel@gmail.com)
-* 🧠  I'm learning React Context, React Query
+* 🧠  I'm learning WebGL, Strapi
 * 🤝  I'm open to collaborating on most things! Especially exciting open source stuff
 
-- 🌱 In the meantime, if you need me, I'll be off building something. (Good odds I could be playing chess, cooking tacos, or managing a fantasy sports team, too.)  
+- 🌱 In the meantime, if you need me, I'll be off building something. (Good odds I could be playing chess, cooking tacos, or managing a fantasy football team, too.)  
 
 - 📫 Drop me a line: <a href="http://mailto:bradtramel@gmail.com">bradtramel @ gmail dot com</a>
 
